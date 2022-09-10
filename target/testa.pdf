@@ -1,0 +1,204 @@
+%PDF-1.4
+%öäüß
+1 0 obj
+<<
+/Type /Catalog
+/Version /1.4
+/Pages 2 0 R
+/AcroForm 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Kids [4 0 R]
+/Count 1
+>>
+endobj
+3 0 obj
+<<
+/Fields [5 0 R 6 0 R 7 0 R 8 0 R]
+/DR 9 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/MediaBox [0.0 0.0 595.27563 841.8898]
+/Parent 2 0 R
+/Annots [6 0 R 7 0 R 8 0 R 10 0 R]
+>>
+endobj
+5 0 obj
+<<
+/FT /Ch
+/Ff 131072
+/T (test)
+/DA (/Helv 12.0 Tf 0 0 0 rg)
+/Opt [[(1) <F66E65>]
+ [(2) (two)]
+ [(3) <746872E965>]
+]
+/Kids [10 0 R]
+>>
+endobj
+6 0 obj
+<<
+/FT /Tx
+/T (myfield5)
+/DA (/Helv 12 Tf 0 0 1 rg)
+/Type /Annot
+/Subtype /Widget
+/Rect [390.27563 786.8898 590.27563 811.8898]
+/P 4 0 R
+/MK 11 0 R
+/F 4
+/Q 2
+>>
+endobj
+7 0 obj
+<<
+/FT /Tx
+/T (myfield51)
+/DA (/Helv 12 Tf 0 0 1 rg)
+/Type /Annot
+/Subtype /Widget
+/Rect [255.27563 786.8898 455.27563 811.8898]
+/P 4 0 R
+/MK 12 0 R
+/F 4
+/Q 2
+>>
+endobj
+8 0 obj
+<<
+/FT /Tx
+/Ff 1
+/T (myfield6)
+/DA (/Helv 12 Tf 0 0 1 rg)
+/Type /Annot
+/Subtype /Widget
+/Rect [390.27563 736.8898 590.27563 761.8898]
+/P 4 0 R
+/MK 13 0 R
+/F 4
+/Q 2
+/V (ffff)
+/AP 14 0 R
+>>
+endobj
+9 0 obj
+<<
+/Font 15 0 R
+>>
+endobj
+10 0 obj
+<<
+/Type /Annot
+/Subtype /Widget
+/Rect [490.27563 716.8898 590.27563 736.8898]
+/F 4
+/P 4 0 R
+/Parent 5 0 R
+>>
+endobj
+11 0 obj
+<<
+/BC [0.0 1.0 0.0]
+/BG [1.0 1.0 0.0]
+>>
+endobj
+12 0 obj
+<<
+/BC [0.0 1.0 0.0]
+/BG [1.0 1.0 0.0]
+>>
+endobj
+13 0 obj
+<<
+>>
+endobj
+14 0 obj
+<<
+/N 16 0 R
+>>
+endobj
+15 0 obj
+<<
+/Helv 17 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 104
+/Type /XObject
+/Subtype /Form
+/BBox [0.0 0.0 200.0 25.0]
+/FormType 1
+/Resources <<
+/Font 18 0 R
+>>
+>>
+stream
+/Tx BMC
+
+q
+1 1 198 23 re
+W
+n
+BT
+/Helv 12 Tf
+/DeviceRGB cs
+0 0 1 sc
+184.656 8.192 Td
+(ffff) Tj
+ET
+Q
+EMC
+
+
+endstream
+endobj
+17 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+>>
+endobj
+18 0 obj
+<<
+/Helv 17 0 R
+>>
+endobj
+xref
+0 19
+0000000000 65535 f
+0000000015 00000 n
+0000000094 00000 n
+0000000151 00000 n
+0000000216 00000 n
+0000000337 00000 n
+0000000487 00000 n
+0000000663 00000 n
+0000000840 00000 n
+0000001043 00000 n
+0000001077 00000 n
+0000001203 00000 n
+0000001261 00000 n
+0000001319 00000 n
+0000001341 00000 n
+0000001373 00000 n
+0000001408 00000 n
+0000001665 00000 n
+0000001763 00000 n
+trailer
+<<
+/Root 1 0 R
+/ID [<F7DC076B0FD5088E74CF92BFFE2D7595> <F7DC076B0FD5088E74CF92BFFE2D7595>]
+/Size 19
+>>
+startxref
+1798
+%%EOF
